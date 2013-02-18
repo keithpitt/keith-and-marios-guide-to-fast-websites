@@ -4,8 +4,7 @@
 - GZip HTML (Rack middleware on heroku), Gzip JS + CSS (Sprockets config)
 - Lossily compress uploaded images (jpeg, 80%), strip metadata, compress asset images (imageOptim)
 - Move JS to the bottom
-- Load JS with head.js externally
-- Load JS with head.js on the page (make sure to note that CSS goes on top)
+- Load JS with async loader
 - Add CDN
 - Multiple asset domains
 - Add SPDY
