@@ -1,8 +1,8 @@
-# Gzip Assets
+# 2 - Gzip Assets
 
-CSS: 18.48KB   => 4.97KB  ( Saved 13.51KB)
-JS:  134.45KB  => 46.29KB ( Saved 88.16KB)
-HTML: 16.80    => 2.87KB  ( Saved 13.93KB)
+CSS: 18.48KB   => 4.97KB  ( Saved 13.51KB )
+JS:  134.45KB  => 46.29KB ( Saved 88.16KB )
+HTML: 16.80    => 2.87KB  ( Saved 13.93KB )
 ==========================
 Total Saving: 115.6KB
 Total Page Size: 496.15KB
@@ -16,11 +16,11 @@ use Rack::Deflater
 AssetSync.configure do |config|
   config.gzip_compression = true
 end
-
 ```
 
 ## Test Result
 
+```
 Testing http://www.giftoppr.co/
 At Mon Feb 18 23:00:17 2013
 10 loops
@@ -52,5 +52,6 @@ DOM Content Loaded Event End:      1441ms    1666ms    20984ms   5916ms
 Load Event End:                    6613ms    7390ms    27257ms   6122ms    
 DOM Complete:                      6613ms    7390ms    27257ms   6122ms    
 Load Event Start:                  6613ms    7390ms    27257ms   6122ms  
+```
 
 DOM Complete Median: 7390ms

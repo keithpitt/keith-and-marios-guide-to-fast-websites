@@ -1,4 +1,4 @@
-# Starting
+# 0 - Starting
 
 HTML:  16.80KB
 CSS:   64.54kB
@@ -7,6 +7,7 @@ Img:   442.02KB
 ===============
 Total Page Size: 902.85KB
 
+```
 ## Test Result
 
 Testing http://www.giftoppr.co/
@@ -40,5 +41,6 @@ DOM Content Loaded Event End:      2570ms    3560ms    4131ms    630ms
 DOM Complete:                      7480ms    9157ms    9918ms    815ms     
 Load Event End:                    7480ms    9157ms    9918ms    815ms     
 Load Event Start:                  7480ms    9157ms    9918ms    815ms   
+```
 
 DOM Complete Median: 9157ms

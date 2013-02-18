@@ -1,7 +1,7 @@
-# Minifying Assets
+# 1 - Minifying Assets
 
-CSS: 64.54kB  => 18.48KB  ( Saved 46.06KB)
-JS:  379.49KB => 134.45KB ( Saved 245.04KB)
+CSS: 64.54kB  => 18.48KB  ( Saved 46.06KB )
+JS:  379.49KB => 134.45KB ( Saved 245.04KB )
 ==========================
 Total Saving: 291.10KB
 Total Page Size: 611.75K
@@ -14,6 +14,7 @@ config.assets.compress = true
 
 ## Test Result
 
+```
 Testing http://www.giftoppr.co/
 At Mon Feb 18 22:50:54 2013
 10 loops
@@ -45,5 +46,6 @@ DOM Content Loaded Event End:      1957ms    2536ms    3102ms    328ms
 DOM Complete:                      7281ms    8061ms    9638ms    710ms     
 Load Event End:                    7281ms    8062ms    9638ms    710ms     
 Load Event Start:                  7281ms    8061ms    9638ms    710ms   
+```
 
 DOM Complete Mean: 8061ms
