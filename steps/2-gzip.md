@@ -1,4 +1,12 @@
-# Minifying Assets
+# Gzip Assets
+
+CSS: 18.48KB   => 4.97KB  ( Saved 13.51KB)
+JS:  134.45KB  => 46.29KB ( Saved 88.16KB)
+HTML: 16.80    => 2.87KB  ( Saved 13.93KB)
+==========================
+Total Saving: 115.6KB
+Total Page Size: 496.15KB
+
 
 ```ruby
 # config.ru

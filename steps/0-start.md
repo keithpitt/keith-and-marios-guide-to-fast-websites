@@ -1,5 +1,12 @@
 # Starting
 
+HTML:  16.80KB
+CSS:   64.54kB
+JS:    379.49KB
+Img:   442.02KB
+===============
+Total Page Size: 902.85KB
+
 ## Test Result
 
 Testing http://www.giftoppr.co/

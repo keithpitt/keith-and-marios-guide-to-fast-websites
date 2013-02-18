@@ -1,5 +1,12 @@
 # Minifying Assets
 
+CSS: 64.54kB  => 18.48KB  ( Saved 46.06KB)
+JS:  379.49KB => 134.45KB ( Saved 245.04KB)
+==========================
+Total Saving: 291.10KB
+Total Page Size: 611.75K
+
+
 ```ruby
 # config/environments/production.rb
 config.assets.compress = true
