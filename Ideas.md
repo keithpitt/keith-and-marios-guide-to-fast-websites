@@ -60,6 +60,7 @@
   - Compass can automatically sprite for you
 - Resize images to what they're going to show at.
 - Note that mobile can't cache files over x,so think about THAT!
+- Explain how %d works in the controller asset domain (talk about 6 connectoin per host limit 4x == 24)
 
 
 ### SSL
