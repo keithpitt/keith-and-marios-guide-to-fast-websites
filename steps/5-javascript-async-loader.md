@@ -33,3 +33,5 @@ DOM Complete:                      5850ms    6133ms    7350ms    431ms
 Load Event Start:                  5850ms    6133ms    7350ms    431ms     
 Load Event End:                    5880ms    6163ms    7380ms    431ms  
 ```
+
+DOM Complete Median: 6133ms
