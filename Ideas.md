@@ -44,7 +44,7 @@
 - cdn
 - gzip
 - minify
-- cookieless host
+- cookieless host <=== NYAR, IMPORTANT!!!!!!!!
 - expiry headers
 - Multple asset hosts
   - Example in rails
