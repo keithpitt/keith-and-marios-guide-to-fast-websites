@@ -1,4 +1,4 @@
-# 8 - Multiple Asset Domains
+# 8 - SPDY (Single asset domain HTTPS)
 
 ```
 Testing http://www.giftoppr.co/
