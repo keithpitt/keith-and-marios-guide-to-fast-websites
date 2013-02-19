@@ -1,5 +1,6 @@
 # 5 - JavaScript async loader
 
+```
 Testing http://www.giftoppr.co/
 At Tue Feb 19 00:36:45 2013
 10 loops
@@ -31,3 +32,4 @@ DOM Content Loaded Event Start:    964ms     1008ms    2131ms    362ms
 DOM Complete:                      5850ms    6133ms    7350ms    431ms     
 Load Event Start:                  5850ms    6133ms    7350ms    431ms     
 Load Event End:                    5880ms    6163ms    7380ms    431ms  
+```
