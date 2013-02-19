@@ -61,7 +61,7 @@
 - Resize images to what they're going to show at.
 - Note that mobile can't cache files over x,so think about THAT!
 - Explain how %d works in the controller asset domain (talk about 6 connectoin per host limit 4x == 24)
-
+- Talk about how the asset pipeline is awesome if you need to add a CDN, change host etc, cache static assets...
 
 ### SSL
 
