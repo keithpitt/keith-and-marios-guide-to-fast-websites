@@ -44,6 +44,7 @@
   - Clients using non local (googleDNS, openDNS) DNS servers may not get benefits.
   - Not very expensive, free ones available
   - Asset expiration, set expiry for 10 years, unique filenames (hash, digest)
+  - Cookiless domains
 
 #### Step 7 - Multiple asset subdomains
   - Browsers have a connection limit (6 per host)
@@ -53,6 +54,7 @@
   - Raise DNS TTL unless you need to make changes
 
 #### Step 8 - SPDY
+  - TODO: What is spdy, be acurrate here! TODO: Write script.
   - Faster with single asset domain (uses streaming, no TCP rampup)
   - SSL for free
   - Doesn't require TLS, but usually runs over it; requires Next Pritocol Negotiation (NPN)
